@@ -1,0 +1,27 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "My first project node!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandrovalencias/nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Alejandro Valencia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandrovalencias/nodejs/issues"
+  },
+  "homepage": "https://github.com/alejandrovalencias/nodejs#readme",
+  "dependencies": {
+    "mongoose": "^5.3.13",
+    "underscore": "^1.9.1"
+  }
+}
